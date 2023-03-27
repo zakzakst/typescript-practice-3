@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "./chapter-2"
+    }
+  ],
+  "settings": {
+    "emmet.includeLanguages": {
+      "nunjucks": "html"
+    }
+  }
+}
